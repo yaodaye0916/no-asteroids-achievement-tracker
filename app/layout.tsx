@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Script from "next/script";
 import "./globals.css";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://no-asteroids-achievement-tracker.vercel.app";
@@ -28,9 +29,38 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  const gtmId = process.env.NEXT_PUBLIC_GTM_ID;
+
   return (
     <html lang="en">
       <body>
+        {gtmId ? (
+          <>
+            <Script id="gtm-data-layer" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                  'gtm.start': new Date().getTime(),
+                  event: 'gtm.js'
+                });
+              `}
+            </Script>
+            <Script
+              id="gtm-loader"
+              src={`https://www.googletagmanager.com/gtm.js?id=${encodeURIComponent(gtmId)}`}
+              strategy="afterInteractive"
+            />
+            <noscript>
+              <iframe
+                src={`https://www.googletagmanager.com/ns.html?id=${encodeURIComponent(gtmId)}`}
+                height="0"
+                width="0"
+                style={{ display: "none", visibility: "hidden" }}
+                title="Google Tag Manager"
+              />
+            </noscript>
+          </>
+        ) : null}
         <div className="site-shell">
           <header className="site-header">
             <Link className="brand" href="/" aria-label="No Asteroids Achievement Tracker home">
