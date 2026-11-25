@@ -1,0 +1,16 @@
+/node_modules
+/.next
+/out
+/.vercel
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+/.qa-artifacts
+/.qa-profile-*
+
+# Local planning and research notes
+/AGENTS.md
+/PROJECT-PLAN.md
+/RESEARCH-BACKLOG.md
+/RESEARCH-RESULTS.md
