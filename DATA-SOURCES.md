@@ -1,6 +1,6 @@
 # No Asteroids achievement data sources
 
-Last checked: 2026-11-25 (Asia/Shanghai)
+Last checked: 2026-11-26 (Asia/Shanghai)
 
 ## Primary source
 
@@ -33,9 +33,9 @@ SteamDB independently listed 65 achievements on 2026-11-25. It is a secondary cr
 - All 65 Steam API names are unique.
 - All 65 Steam internal keys are unique.
 - Steam marks exactly one achievement as hidden: `ACH_DESTRUCT` (`Not in the plan`).
-- `globalUnlockPercent` is a dated Steam snapshot from 2026-11-25 and will change as more players unlock achievements.
+- `globalUnlockPercent` is a dated Steam snapshot from 2026-11-26 and will change as more players unlock achievements.
 - All 65 records have been placed into seven descriptive categories derived from their official names and descriptions. Category assignment is editorial organization, not a claim about hidden game logic.
-- `unlockCondition` and `tips` are intentionally `null` until gameplay evidence or reliable developer/player evidence is checked.
+- `unlockCondition` remains `null` until gameplay evidence is checked. Source-backed notes are added only when developer information or reliable gameplay evidence is available, and uncertainty stays explicit.
 - Official descriptions are preserved as source facts; they are not presented as independently verified strategy text.
 
 ## Next research task

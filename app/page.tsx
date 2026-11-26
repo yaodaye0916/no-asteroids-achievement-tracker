@@ -15,7 +15,7 @@ export default function HomePage() {
   return (
     <main>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <AchievementTracker achievements={achievementsData.achievements} />
+      <AchievementTracker achievements={achievementsData.achievements} raritySnapshotDate={achievementsData.source.globalStatsRetrievedDate} />
       <section className="content-section" aria-labelledby="how-it-works">
         <div>
           <p className="eyebrow">Private by design</p>
@@ -44,7 +44,7 @@ export default function HomePage() {
         <h2 id="faq-title">No Asteroids achievement FAQ</h2>
         <details>
           <summary>How many achievements does No Asteroids have?</summary>
-          <p>No Asteroids currently has 65 Steam achievements. This tracker uses the public Steam schema checked on November 25, 2026.</p>
+          <p>No Asteroids currently has 65 Steam achievements. This tracker uses the public Steam schema checked on November 26, 2026.</p>
         </details>
         <details>
           <summary>Does the tracker upload my progress?</summary>

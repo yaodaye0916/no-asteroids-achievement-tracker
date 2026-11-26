@@ -13,7 +13,7 @@ export default function AboutPage() {
       <h1>A focused checklist for achievement hunters</h1>
       <p>No Asteroids Achievement Tracker is an independent tool for players who want one clear place to browse all achievements and track what they have completed.</p>
       <h2>Where the data comes from</h2>
-      <p>Achievement names, official descriptions, visibility flags, icons, and global unlock percentages come from Steam&apos;s public achievement data for app 5527800. The dataset was last checked on November 25, 2026.</p>
+      <p>Achievement names, official descriptions, visibility flags, icons, and global unlock percentages come from Steam&apos;s public achievement data for app 5527800. The dataset was last checked on November 26, 2026. Global unlock percentages are a dated snapshot and will change as more players earn achievements.</p>
       <h2>What we verify</h2>
       <p>Official metadata is separated from original guide text. Practical unlock instructions and tips are only added after they can be supported by gameplay evidence, developer information, or reliable independent reports.</p>
       <h2>Contact and corrections</h2>

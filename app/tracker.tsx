@@ -35,7 +35,7 @@ const categoryLabels: Record<string, string> = {
   "ship-life-and-interactions": "Ship life & interactions",
 };
 
-export default function AchievementTracker({ achievements }: { achievements: Achievement[] }) {
+export default function AchievementTracker({ achievements, raritySnapshotDate }: { achievements: Achievement[]; raritySnapshotDate: string }) {
   const [completed, setCompleted] = useState<Set<string>>(new Set());
   const [loaded, setLoaded] = useState(false);
   const [query, setQuery] = useState("");
@@ -127,7 +127,7 @@ export default function AchievementTracker({ achievements }: { achievements: Ach
             <p className="eyebrow">Checklist</p>
             <h2 id="tracker-title">Find your next achievement</h2>
           </div>
-          <p>Showing <strong>{filtered.length}</strong> of {achievements.length}</p>
+          <p>Showing <strong>{filtered.length}</strong> of {achievements.length} · Steam rarity snapshot: {raritySnapshotDate}</p>
         </div>
 
         <div className="filters" role="search">
