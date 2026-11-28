@@ -9,8 +9,8 @@
                    "publicPage":  "https://steamcommunity.com/achievements/5527800",
                    "secondaryCheck":  "https://steamdb.info/app/5527800/stats/",
                    "globalStatsApi":  "https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v2/?gameid=5527800",
-                   "globalStatsRetrievedDate":  "2026-11-26",
-                   "retrievedDate":  "2026-11-26",
+                   "globalStatsRetrievedDate":  "2026-11-28",
+                   "retrievedDate":  "2026-11-28",
                    "language":  "english",
                    "schemaHash":  2104938099,
                    "schemaVersion":  14
@@ -25,7 +25,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/a63a3c3c85739b4ea724ba03b388d12d9d4c0430.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/1617a13fac2604593d9639ffd9bcde6c7a7d2551.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  98.8,
+                             "globalUnlockPercent":  94.5,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -42,7 +42,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/159944acfc694a0dd21135a4b2ac36e44091746e.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/d6b87930a07042404cfd458774ec8b2f0c85463f.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  78.6,
+                             "globalUnlockPercent":  80.1,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -59,11 +59,22 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/bb4917a987067d0a38f58d27cb727a575f93ed07.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/fcce9e743a115e69b94e88efeda75bf1ec31a173.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  21.0,
+                             "globalUnlockPercent":  30.7,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "community",
+                                               "text":  "Community sources list 39 museum objects, but the exact Steam achievement counting rules remain uncertain. One guide reports that 37 count, with Tape from orbit and Office chair excluded; Nuclear battery is reported to count. Use this as a troubleshooting lead, not a guaranteed checklist.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Wikily finds reference", "url":  "https://wikily.gg/no-asteroids/finds" },
+                                                                    { "label":  "Community achievement reference", "url":  "https://noasteroidswiki.com/achievements" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -76,7 +87,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/e3a97c9472836d2ac626d6b690e98b60032ede07.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/7db42c2e0b00b78eb7acba2328acdb6dcb529cd5.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  25.6,
+                             "globalUnlockPercent":  36.4,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -93,7 +104,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/283b453bb007097e2f0f3ef1bcbcade17c906365.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/abed0bb31dde5ebcd6a983656cb3408a3293dbaf.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  27.1,
+                             "globalUnlockPercent":  38.4,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -110,7 +121,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/de1e9a6df46c47e6d60924b30fae3e717af77ac2.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/35df2ba3b896afe418b7e820384aa896e59a7cde.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  32.6,
+                             "globalUnlockPercent":  45.3,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -127,7 +138,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/1fb179f09a8b9b62633121563d42ef3f3ad13849.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/9381ff95eec03b9bbc44d51b5077ff8304c8f2ba.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  33.4,
+                             "globalUnlockPercent":  46.0,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -144,7 +155,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/67674201951a2a7f15f5e546c1644c9be59e1dea.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/d198bbfea27a7a8b16e121e6aeaaf1260887f147.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  34.5,
+                             "globalUnlockPercent":  47.0,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -161,7 +172,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/f7b29fee9f3727e812278feef5fa6a0eafdd6f4d.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/cd3ac71f36b94260a68f2bfb8b69bef04e87fd97.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  69.1,
+                             "globalUnlockPercent":  73.8,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -178,7 +189,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/acd2ed325083d28bdcacd657330e93aedbd4bd7b.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b5b852cd26cdba0231719719ac937db2af419a7a.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  33.3,
+                             "globalUnlockPercent":  46.1,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
@@ -195,7 +206,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/4b2f9fa18c19bbd3c555aa0c0fb6048b76fd3bdd.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/11bfd8038830eb86fa704179ead7fe7ad0d75ad2.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  58.8,
+                             "globalUnlockPercent":  64.4,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -212,11 +223,22 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/c71a53c19d0822f65a67a19d2aa88a9be6b22c8c.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/5c3d794bb92addffe6e497489d168c669619e566.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  31.7,
+                             "globalUnlockPercent":  41.5,
                              "archived":  false,
                              "category":  "museum-and-finds",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "community",
+                                               "text":  "The official description requires catching a drifting find. Community guidance suggests looking for floating collectibles around the asteroid and trying the ship's tractor beam.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Community achievement reference", "url":  "https://noasteroidswiki.com/achievements" },
+                                                                    { "label":  "Official achievement description", "url":  "https://steamcommunity.com/achievements/5527800" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -229,7 +251,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/80e885aabfb9226d360787546162b53bca564b33.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/d7355c47434cb257c1fef2603178550c98da9dbc.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  72.5,
+                             "globalUnlockPercent":  76.2,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -246,7 +268,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/0e32dfe30887bd3ec659fe8543a12938dd23c176.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/9edb6c2641e08cb939426bfe7e8f19a4e43ad905.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  88.6,
+                             "globalUnlockPercent":  87.5,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -263,7 +285,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/048dec38a4589771c50cfd108c59284a18043ae0.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/65190ec30d610a212e70f14d9cee813e45d62093.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  67.2,
+                             "globalUnlockPercent":  73.5,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -280,7 +302,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/97607c91348a675d158499374d26f5633cc457db.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/f019cb81ee5570a9d03100dab04398863ec7d45b.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  41.2,
+                             "globalUnlockPercent":  57.7,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -297,7 +319,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b00b7e05ff2a99e99135051fe283363fe2b90755.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/a3fac88edde1086d1588a3012ffe8320d9576e1c.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  30.5,
+                             "globalUnlockPercent":  50.0,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -314,11 +336,22 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/4f155a11c311744f620e51910c18744bfd16d4d5.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/96e878b679e16339ac0b3751ff5aab81c23da335.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  28.2,
+                             "globalUnlockPercent":  48.6,
                              "archived":  false,
                              "category":  "endings-and-challenges",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "If the last fragments cannot be reached, update your game: version 1.0.8 addressed this problem. Check the remaining asteroid volume before finishing.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" },
+                                                                    { "label":  "Official achievement description", "url":  "https://steamcommunity.com/achievements/5527800" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -331,11 +364,31 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/8b7161da8062b5478c3546571f0b76e530b4ec70.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/96d17b90cab1aa46b74c91a2bff324ac2629087d.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  9.0,
+                             "globalUnlockPercent":  17.3,
                              "archived":  false,
                              "category":  "endings-and-challenges",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "Version 1.0.8 introduced an optional blackout prevention setting in No Rush. Its eligibility for this Steam achievement is not confirmed; do not rely on it for a no-blackout challenge.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           },
+                                           {
+                                               "kind":  "community",
+                                               "text":  "For this challenge, leave the No blackouts option disabled: community guides report that enabling it prevents Wide awake from unlocking. The option itself was officially introduced in version 1.0.8.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Wikily No Rush reference", "url":  "https://wikily.gg/no-asteroids/game-modes/no-rush" },
+                                                                    { "label":  "Community achievement reference", "url":  "https://noasteroidswiki.com/achievements" },
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -348,7 +401,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/f7bcab1e1c11ce773df9f592b190848bb1002d88.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/838ddffb925dadf81d5253c4e4c97085ccfe2af8.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  89.2,
+                             "globalUnlockPercent":  87.8,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -365,13 +418,30 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/9b01f499274c4102acefb76048ff717a1c059699.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/6a16ab86a7aa07f519a0b9c56d02537e332e1584.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  19.7,
+                             "globalUnlockPercent":  36.6,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
-                             "tips":  "The Lance and Slicer become available after you purchase either Orbital Strike or Collapsar. Whether they are required for this achievement is still unconfirmed.",
-                             "tipSourceUrl":  "https://steamcommunity.com/games/5527800/announcements/detail/1850460852979281",
-                             "tipVerifiedDate":  "2026-11-26",
+                             "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "The workshop offers Lance and Slicer after buying Orbital Strike or Collapsar, according to the 1.0.2 notes. A later update allows these tools to remain available after resale. Whether all tools must be owned simultaneously is not officially confirmed.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           },
+                                           {
+                                               "kind":  "community",
+                                               "text":  "Community guides recommend keeping all eight hand tools in your inventory at once: Pickaxe, Sledgehammer, Drill, Laser, Plasma cutter, Missile swarm, Lance and Slicer. If you sold a tool, try buying it back before starting another year. This is a community-reported condition, not an official patch-note guarantee.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Wikily Full toolbox reference", "url":  "https://wikily.gg/no-asteroids/achievements/full-toolbox" },
+                                                                    { "label":  "Community achievement reference", "url":  "https://noasteroidswiki.com/achievements" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -384,7 +454,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/74272a7c3c04bad31273bb63dc57f8bc23d71a6c.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/293f9471005acc4e4844fe0cc45f6509f482d4d8.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  26.5,
+                             "globalUnlockPercent":  47.0,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -401,7 +471,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/bd10d14724f3a7e5307535107b3d663be42eef71.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/a63a1c7a02ea5378467f2a86118a1d11756d1875.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  71.0,
+                             "globalUnlockPercent":  70.0,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
@@ -418,7 +488,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/50c16f4b38c4e8e83cf9a00a520c9604a524e15d.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b12f2d54f095587bd3506ec4a9e4ff10c4fef34e.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  75.9,
+                             "globalUnlockPercent":  75.4,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
@@ -435,7 +505,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/397b078eb4504df9be7742b51a8084829a042801.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/267f4030780e991056408d95abb6607a229b2a1f.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  96.2,
+                             "globalUnlockPercent":  92.8,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -452,7 +522,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/47c25d32e3af3de6ce7ff460c03737ca1aa0b46f.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/bbe15dda8530e2e36cb1642e883b18ae5d1ae7d2.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  74.2,
+                             "globalUnlockPercent":  82.1,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -469,7 +539,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/08bc0a6112cc79a95750b054405da80c318b7b92.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/3d5a736551e161021768b8a11f7c3cde2caf34d0.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  93.8,
+                             "globalUnlockPercent":  90.9,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -486,11 +556,22 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/aa9dae064a651fff0b17c634e1ade7bd1608dd81.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/2c47d78fa9a8a1246deb4bb261b52eaff095c627.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  4.1,
+                             "globalUnlockPercent":  5.0,
                              "archived":  false,
                              "category":  "endings-and-challenges",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "community",
+                                               "text":  "Community guides suggest using a separate deadline-based campaign and allowing the deadline to expire with asteroid material remaining. Keep this attempt separate from Earth saved. Exact ending thresholds are not independently verified.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Community achievement reference", "url":  "https://noasteroidswiki.com/achievements" },
+                                                                    { "label":  "Community guide reference", "url":  "https://www.whisperofthehouse.com/no-asteroids/achievements" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -503,7 +584,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/adc76042ecb3f7b13f242b57f39e215c747d540f.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/6fa5fd85614aeb6c1db5d76edbd493da0db3a5fd.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  99.9,
+                             "globalUnlockPercent":  96.0,
                              "archived":  false,
                              "category":  "economy-and-orders",
                              "unlockCondition":  null,
@@ -520,7 +601,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/f49ad620bf06171b67701470b76a82bb3aba6985.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/17d298746541e753017e05cd9a70283f7acbf700.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  92.5,
+                             "globalUnlockPercent":  90.0,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -537,7 +618,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/375f28ce04846a05c2e89eeca70427d51ac65e06.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/8f13b92288f4b89f1c31ea1561cf5367ba1b29a8.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  100.0,
+                             "globalUnlockPercent":  97.8,
                              "archived":  false,
                              "category":  "economy-and-orders",
                              "unlockCondition":  null,
@@ -554,7 +635,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/5a2bcbf314ce2552a23aaa162e38f50f137a0090.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/3e587ecf6040aaf8f9d895c0450551cc71ab6b9d.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  87.3,
+                             "globalUnlockPercent":  86.4,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -571,7 +652,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/6d7f96547552eabcfeda43dbf434dcfcdf076191.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/61ebd8ea4e96bb6b25e9d82ca939700938b69745.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  86.3,
+                             "globalUnlockPercent":  85.5,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -588,11 +669,22 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/862b7a39760c4e4f73fc181f998d239a6e54f718.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/aaad1699b8e0311ad66f6c189119d5d579eb09d6.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  17.8,
+                             "globalUnlockPercent":  23.6,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "community",
+                                               "text":  "Community guides list five workshop items to try: Plain charge (also called Explosive charge in another guide), Shaped charge, Mining rig, Shaker charge and Singularity. Beacon is reportedly excluded. Check the names in your version; the exact achievement trigger has not been independently tested.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Wikily charges reference", "url":  "https://wikily.gg/no-asteroids/charges" },
+                                                                    { "label":  "Community achievement reference", "url":  "https://noasteroidswiki.com/achievements" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -605,7 +697,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b4a8df0693ba64b9687e59380ff7d30d0f73fb4b.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/619d9a5b2124ab14afa8acdac531ee26297e0a4e.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  77.6,
+                             "globalUnlockPercent":  80.1,
                              "archived":  false,
                              "category":  "economy-and-orders",
                              "unlockCondition":  null,
@@ -622,11 +714,21 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/c58fcb75f59e48058e257e6a0bad2932fdfe0016.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b7bf61ef9e6f13a2e51da8383d4bf8d7601e0e33.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  22.0,
+                             "globalUnlockPercent":  35.1,
                              "archived":  false,
                              "category":  "endings-and-challenges",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "If you are playing as a co-op guest, update to version 1.0.9 or later before attempting this achievement. That patch addressed a guest-specific unlock issue.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -639,7 +741,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/741d46ff33d69efdf6ddf2a8825fb96d02dfc7b6.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/785c01e5f9cfd1976ed353d77ad059dfcf60bda9.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  30.4,
+                             "globalUnlockPercent":  34.7,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
@@ -656,13 +758,21 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/75e2781ff6e266083d7931a51eacaa518debe79f.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/21f28be6db333f7365fed72043c6310867ee3109.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  20.7,
+                             "globalUnlockPercent":  26.8,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
-                             "tips":  "The telescope is located in the observation dome. Use its Earth view to look for locations; the complete target list has not yet been verified.",
-                             "tipSourceUrl":  "https://store.steampowered.com/app/5527800/No_Asteroids/",
-                             "tipVerifiedDate":  "2026-11-25",
+                             "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "community",
+                                               "text":  "In a timed campaign, check the Earth section of the observation-dome telescope on or after days 1, 8, 18, 28 and 40. The five reported targets are Support rally, Off-site session, The border, Bookmakers and Predicted impact point, respectively. In No Rush and post-ending contracts, the reported requirements are Off-site session and The border only. This has not been independently tested for the current build.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Wikily telescope reference", "url":  "https://wikily.gg/no-asteroids/ship/telescope" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -675,7 +785,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/d442c38fd8b56cf424e1c5ba5d3f1e46e1ccf1a1.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/cad413d63361317eba0becb7e9f4b8dd4f895dc0.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  42.5,
+                             "globalUnlockPercent":  45.7,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
@@ -692,7 +802,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/e64d32907f689b2ac82c0eff29ac57b98582336c.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/15b31c7547a203d93ff8be2e52fdfeb916884d30.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  50.7,
+                             "globalUnlockPercent":  62.3,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -709,7 +819,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/1aed8b0c3e91a30e55aa5c79b7239107fd3f611b.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b6f4097337e571e7f4bca9cb3d9f9e535e7e274c.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  67.7,
+                             "globalUnlockPercent":  74.4,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -726,7 +836,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/d6a72741e71528ec27382d05de78863cf0dfe7d1.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/ab0152fb3207123174bc189f0beff0337d3dfc01.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  53.0,
+                             "globalUnlockPercent":  65.1,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -743,7 +853,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/babe5e82257d3c49864d3d918b21d12fe313e1cd.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/0319001f1689acf2718c8178d347d125a20fa730.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  33.7,
+                             "globalUnlockPercent":  52.4,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -760,11 +870,21 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/41bced7ba38130cca917b77a803edd1041e2a2a2.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/d568efd20fb527bfce355f8ae2c038f1691758cb.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  77.4,
+                             "globalUnlockPercent":  78.9,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "Since version 1.0.6, days do not advance automatically in No Rush or after an ending. Plan day-based milestones with that change in mind.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -777,11 +897,21 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/2e89c547490be35f879084a99b929df181c10690.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/34443843cb13aeafb2375297b630927c7f655a2e.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  36.8,
+                             "globalUnlockPercent":  44.2,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "Since version 1.0.6, days do not advance automatically in No Rush or after an ending. Plan day-based milestones with that change in mind.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -794,7 +924,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/9af09529ecf9054426064552ecb1d35ca59a6be7.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/0cdee6618d5b1cf2d71e369320caec81162531dd.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  67.9,
+                             "globalUnlockPercent":  73.9,
                              "archived":  false,
                              "category":  "economy-and-orders",
                              "unlockCondition":  null,
@@ -811,7 +941,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/7b7b0ef8101b7ae33ecba993700dea83b414a796.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/4bac1ec8e2b6822f8b1b4f33ceca6a99d8bee539.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  53.5,
+                             "globalUnlockPercent":  64.8,
                              "archived":  false,
                              "category":  "economy-and-orders",
                              "unlockCondition":  null,
@@ -828,7 +958,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/cb472b621e8fe6ea572971ae7dfabe92d840d1f7.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/39c89b95a40ae38f363ddb6a08d23630c810718d.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  35.5,
+                             "globalUnlockPercent":  50.5,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -845,7 +975,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/474db7d9b194a442c7ca4cf35d00ead24e032281.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b55425dd084d1fc280f6e146acf1a2e934ca897e.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  89.1,
+                             "globalUnlockPercent":  87.6,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -862,7 +992,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/6911c99fff9936f7f07aab16e4fc360f6249b873.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/30d82b50a22ff47bd92a605ec3d3caecd8f7c6ee.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  87.6,
+                             "globalUnlockPercent":  86.4,
                              "archived":  false,
                              "category":  "economy-and-orders",
                              "unlockCondition":  null,
@@ -879,7 +1009,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/a45309a3c0f873d14a2299a202708fd0780320a9.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/96c6e4151769566289450235faf41d368547b167.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  96.3,
+                             "globalUnlockPercent":  93.3,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -896,7 +1026,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/ec3c70a18de4894add2289ee25296d7af63cca36.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/79ec14fcb79dd0df6078d3d752dc35f262437366.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  95.5,
+                             "globalUnlockPercent":  92.3,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -930,7 +1060,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/f5993e4dae45e9e08043b849b8d14f8707855688.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/9808e4811f54721ab41bfb13a323bc60bc67197a.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  74.6,
+                             "globalUnlockPercent":  77.6,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -947,7 +1077,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/716c426f943998dec88a5bd75cf384dfb8e4b585.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/5e4d3adfc2d2c29ead8022d6a7d141e57f8217d2.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  56.5,
+                             "globalUnlockPercent":  64.2,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -964,7 +1094,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/5bf28eba1dede09eeb22e43ccddb23ed23c685ca.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/ecd3aecf635bfe844f30cfc461f773d2576e5b71.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  49.1,
+                             "globalUnlockPercent":  59.5,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -981,7 +1111,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/1d501ea843ab8e17a742b7fec2b20e8d7763def9.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/06bb462cd76bba472806bfa9aaa6c1df7f30f1c7.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  79.1,
+                             "globalUnlockPercent":  80.9,
                              "archived":  false,
                              "category":  "exploration-and-events",
                              "unlockCondition":  null,
@@ -998,7 +1128,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/3d0a430205725c88fe65aabd75effaaa62b6db87.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/777e5712f3fa38ec92cf85a6653dd685e448ec8c.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  100.0,
+                             "globalUnlockPercent":  97.5,
                              "archived":  false,
                              "category":  "progress-milestones",
                              "unlockCondition":  null,
@@ -1015,11 +1145,23 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/5d0125700bdc81862473b5d4895bfac2bc3b9a8c.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/f41a193b84288039c6fe1217a17fe5c8d71f512a.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  8.0,
+                             "globalUnlockPercent":  10.8,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "community",
+                                               "text":  "Community references suggest collecting an emergency ampoule from the ship's first-aid box before the shift. It reportedly provides about 15 extra seconds when oxygen runs out. Patch 1.0.8 fixed premature first-aid consumption.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Wikily Second wind reference", "url":  "https://wikily.gg/no-asteroids/achievements/second-wind" },
+                                                                    { "label":  "Community guide reference", "url":  "https://www.whisperofthehouse.com/no-asteroids/achievements" },
+                                                                    { "label":  "Official Steam announcements", "url":  "https://steamcommunity.com/app/5527800/allnews/" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -1032,7 +1174,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/53ff35707f19a00b669a2fb8565095d0f048fe9f.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/9eb2ee362f32146f33ed49bad72b3d12ccb2e6e6.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  48.7,
+                             "globalUnlockPercent":  50.2,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
@@ -1049,11 +1191,21 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/97193d4fd7288488b7600440bcf6d0a63ec7a17a.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/40755f1d5dd0add0f73752c47dfc5741c515481c.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  13.8,
+                             "globalUnlockPercent":  20.6,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
                              "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "The November 25 progression update addressed problems with sleeping and advancing days after the first asteroid. Update the game if this interaction is not working as expected.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official cleaning and progression update", "url":  "https://store.steampowered.com/news/app/5527800/view/698782503191707691" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -1066,13 +1218,22 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/8d75dce9e1c3e12bb11b97b61f6ab32197c558fa.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b49f91ce814c5a6f974bad3db591516b34d0afce.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  44.3,
+                             "globalUnlockPercent":  46.6,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
-                             "tips":  "A recent update fixed cleaning completion and made this achievement easier to unlock. If progress is stuck, make sure the game is up to date and follow the remaining cleaning highlights.",
-                             "tipSourceUrl":  "https://steamcommunity.com/games/5527800/announcements/detail/1850460852980504",
-                             "tipVerifiedDate":  "2026-11-26",
+                             "tips":  null,
+                             "notes":  [
+                                           {
+                                               "kind":  "official",
+                                               "text":  "This achievement concerns the lander, rather than cleaning a ship section. The November 25 patch improved ship cleaning and specifically mentioned Spring Cleaning; it did not explicitly identify a fix for Fresh off the line.",
+                                               "sourceUrls":  [
+                                                                    { "label":  "Official achievement description", "url":  "https://steamcommunity.com/achievements/5527800" },
+                                                                    { "label":  "Official cleaning update", "url":  "https://store.steampowered.com/news/app/5527800/view/698782503191707691" }
+                                                                ],
+                                               "verifiedDate":  "2026-11-28"
+                                           }
+                                       ],
                              "sourceUrl":  "https://steamcommunity.com/achievements/5527800",
                              "verifiedDate":  "2026-11-25",
                              "verificationStatus":  "official-metadata-only"
@@ -1085,7 +1246,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/c363b02dabae97dd478e251768af5dc08f8cc2af.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/318c8b7552f99ce9eba4c138406f823c0779d5ba.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  51.3,
+                             "globalUnlockPercent":  54.1,
                              "archived":  false,
                              "category":  "equipment-and-ship-systems",
                              "unlockCondition":  null,
@@ -1102,7 +1263,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/5138c60c012da0d601ed8f97d240174d365817da.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/0e75c0ceb47e74e61c3f693d2bdc512eba800f64.jpg",
                              "hidden":  false,
-                             "globalUnlockPercent":  32.7,
+                             "globalUnlockPercent":  34.9,
                              "archived":  false,
                              "category":  "ship-life-and-interactions",
                              "unlockCondition":  null,
@@ -1119,7 +1280,7 @@
                              "icon":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/b5e95b11bce20dd529b68a8fb8f610a9ed93a216.jpg",
                              "iconLocked":  "https://shared.fastly.steamstatic.com/community_assets/images/apps/5527800/8a2252966a094ee3d00a1a9cacf4b7f85a184277.jpg",
                              "hidden":  true,
-                             "globalUnlockPercent":  5.7,
+                             "globalUnlockPercent":  8.7,
                              "archived":  false,
                              "category":  "endings-and-challenges",
                              "unlockCondition":  null,
